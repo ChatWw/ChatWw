@@ -37,8 +37,8 @@
 ## 📊 Metrics
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tuyn53&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyn53&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chatww&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chatww&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
