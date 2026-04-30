@@ -9,18 +9,40 @@ console.log('Welcome to my page! 🎉')
 - 📚 正在学习：Python
 - 📫 联系方式：tuyn53@163.com
 
-<p align="left">
-  <img width="48" height="48" style="display:inline-block" alt="javascript" src="https://github.com/user-attachments/assets/b77750b1-673c-4e98-a5ac-821c25a48108" />
-  <img width="48" height="48" style="display:inline-block" alt="typescript" src="https://github.com/user-attachments/assets/97640a0a-d326-46c5-8d8c-410dd9101351" />
-  <img width="48" height="48" style="display:inline-block" alt="vue" src="https://github.com/user-attachments/assets/8451ad13-2b5b-4ca3-b559-63215a150da3" />
-  <img width="48" height="48" style="display:inline-block" alt="react" src="https://github.com/user-attachments/assets/c4fee8d5-441b-46f7-8a76-080f629c6477" />
-  <img width="48" height="48" style="display:inline-block" alt="nodejs" src="https://github.com/user-attachments/assets/3ec2fa5e-60c1-4290-8f31-da9ad76b896c" />
-  <img width="48" height="48" style="display:inline-block" alt="scss" src="https://github.com/user-attachments/assets/f7d6dd7a-9c8f-4c78-bd56-839ecef7f7c7" />
-  <img width="60" height="48" style="display:inline-block" alt="less" src="https://github.com/user-attachments/assets/fa17869f-95b6-4805-92b4-087c54ac788d" />
-  <img width="48" height="48" style="display:inline-block" alt="Webstorm" src="https://github.com/user-attachments/assets/6856309f-8224-44eb-b671-b530e9b148a1" />
-  <img width="48" height="48" style="display:inline-block" alt="vscode" src="https://github.com/user-attachments/assets/46c7b93f-7a28-412f-8f1e-278d9193aefa" />
-  <img width="48" height="48" style="display:inline-block" alt="html" src="https://github.com/user-attachments/assets/8400d72d-55d4-4f0f-b1a4-4cd7c9978533" />
-  <img width="48" height="48" style="display:inline-block" alt="Docker" src="https://github.com/user-attachments/assets/72c24f2e-02bb-4aa1-a031-589bb80326ff" />
-  <img width="48" height="48" style="display:inline-block" alt="Jump-Server" src="https://github.com/user-attachments/assets/8ba080cb-fd33-4b9f-8e15-ddce140bd059" />
+<div align="left">
+
+<!-- 前端 -->
+<h3>🎨 Frontend</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" style="margin:6px; transition:0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" style="margin:6px; transition:0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" style="margin:6px; transition:0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" style="margin:6px; transition:0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" style="margin:6px; transition:0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" style="margin:6px; transition:0.3s;" />
 </p>
+
+<!-- 后端 -->
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" style="margin:6px;" />
+</p>
+
+<!-- 工具 -->
+<h3>🛠 Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" style="margin:6px;" />
+</p>
+
+</div>
+
+<!-- Hover 动画（核心） -->
+<style>
+img:hover {
+  transform: scale(1.2);
+  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
+</style>
 
