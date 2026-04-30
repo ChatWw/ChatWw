@@ -17,20 +17,37 @@
 
 ## ⚙️ Stack
 
-### Frontend
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,vite,html,css,sass,tailwind" />
 </p>
 
-### Backend
+### ⚙️ Backend & Runtime
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Tools
+### 🤖 AI / LLM
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=flat" />
 </p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,docker,git,github,linux" />
+</p>
+
+---
+
+## 🧠 Engineering Focus
+
+- Frontend Architecture
+- Performance Optimization
+- AI-powered Applications
+- Automation & Tooling
 
 ---
 
