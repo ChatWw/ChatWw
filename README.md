@@ -1,48 +1,81 @@
-# 👋 你好，我是 tuyn53
-```
-console.log('Welcome to my page! 🎉')
-```
+# 👋 Hey, I'm tuyn53
 
-# 🤔 About Me:
-- 📍 所在地：南京
-- 🔧 技术栈：JavaScript
-- 📚 正在学习：Python
-- 📫 联系方式：tuyn53@163.com
-
-<div align="left">
-
-<!-- 前端 -->
-<h3>🎨 Frontend</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" style="margin:6px; transition:0.3s;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" style="margin:6px; transition:0.3s;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" style="margin:6px; transition:0.3s;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" style="margin:6px; transition:0.3s;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" style="margin:6px; transition:0.3s;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" style="margin:6px; transition:0.3s;" />
+  Frontend Engineer · Building clean & efficient UI
 </p>
 
-<!-- 后端 -->
-<h3>⚙️ Backend</h3>
+---
+
+## 🧭 About
+
+- 📍 Nanjing, China  
+- 🧠 Focus: Frontend Architecture / Engineering Efficiency  
+- ⚡ Tech: Vue · React · TypeScript  
+- 🌱 Learning: Python / System Design  
+
+---
+
+## ⚙️ Stack
+
+### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css,sass" />
 </p>
 
-<!-- 工具 -->
-<h3>🛠 Tools</h3>
+### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="48" style="margin:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
-</div>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,docker,git" />
+</p>
 
-<!-- Hover 动画（核心） -->
-<style>
-img:hover {
-  transform: scale(1.2);
-  filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
-}
-</style>
+---
 
+## 📊 Metrics
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tuyn53&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyn53&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗 WMS System
+Frontend architecture for warehouse system  
+- Vue2 + Vuex  
+- ECharts Dashboard  
+- Multi-region deployment  
+
+</td>
+
+<td width="50%">
+
+### ⚡ Automation Script
+Tampermonkey automation tools  
+- File download pipeline  
+- Token-based API integration  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Contact
+
+- ✉️ tuyn53@163.com
+
+---
+
+<p align="center">
+  <sub>Minimal · Structured · Engineering Driven</sub>
+</p>
