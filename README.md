@@ -9,6 +9,7 @@ console.log('Welcome to my page! 🎉')
 - 📚 正在学习：Python
 - 📫 联系方式：tuyn53@163.com
 
+<p align="left">
 <img width="48" height="48" alt="javascript" src="https://github.com/user-attachments/assets/b77750b1-673c-4e98-a5ac-821c25a48108" />
 <img width="48" height="48" alt="typescript" src="https://github.com/user-attachments/assets/97640a0a-d326-46c5-8d8c-410dd9101351" />
 <img width="48" height="48" alt="vue" src="https://github.com/user-attachments/assets/8451ad13-2b5b-4ca3-b559-63215a150da3" />
@@ -21,4 +22,5 @@ console.log('Welcome to my page! 🎉')
 <img width="48" height="48" alt="html" src="https://github.com/user-attachments/assets/8400d72d-55d4-4f0f-b1a4-4cd7c9978533" />
 <img width="48" height="48" alt="Docker" src="https://github.com/user-attachments/assets/72c24f2e-02bb-4aa1-a031-589bb80326ff" />
 <img width="48" height="48" alt="Jump-Server" src="https://github.com/user-attachments/assets/8ba080cb-fd33-4b9f-8e15-ddce140bd059" />
+</p>
 
